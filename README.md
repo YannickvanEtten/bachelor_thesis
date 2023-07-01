@@ -1,4 +1,4 @@
-# bachelor_thesis
+# Bachelor thesis
 This Github is part of the bachelor thesis by Yannick van Etten. 
 Several methods are evaluated to reduce the estimation errors of the weights in forecast combination. In Radchenko et al. (2023) a trimming method is evaluated in detail. 
 In the thesis this will be replicated. This is a way to diminish the impact of estimation errors. Furthermore, the thesis tries to find other ways to reduce presence of 
