@@ -2,7 +2,7 @@
 This Github is part of the bachelor thesis by Yannick van Etten. 
 Several methods are evaluated to reduce the estimation errors of the weights in forecast combinations. Radchenko et al. (2023) evaluate a trimming method in detail. 
 In the thesis, this will be replicated. This is a way to diminish the impact of estimation errors. Furthermore, the thesis tries to find other ways to reduce the presence of 
-estimation errors. The impact of using different covariance estimation methods is explored.
+estimation errors. The impact of using different covariance estimation methods is explored. The thesis can be read [here](https://github.com/YannickvanEtten/bachelor_thesis/blob/7fb650b04c39e92f6c4872ae7b096a1e0a80203f/Bachelor_thesis_Yannick_van_Etten_final.pdf).
 
 This first Notebook, Simulation_study_trimming_methods, focuses on Figure 6 from Radchenko et al. (2023), where the mean squared forecasting error (MSFE) 
 of a forecast combination is plotted conditional to a trimming threshold. In addition, their paper looks at the impact of fixed weights on the MSFE. Lastly, 
